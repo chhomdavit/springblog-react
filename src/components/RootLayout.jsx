@@ -22,6 +22,10 @@ const RootLayout = () => {
       key: "/about",
       label: "ABOUT",
     },
+    {
+      key: "/contact",
+      label: "CONTACT",
+    }
   ]
   
   const topItems = [
